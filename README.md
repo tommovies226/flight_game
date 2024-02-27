@@ -1,1 +1,1 @@
-# flight_game
+# flightgame.github.io
